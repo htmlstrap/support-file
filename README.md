@@ -17,8 +17,8 @@
  *
  * INSTALL:
  * I prefer to use @import method to my custom.css file.	
- * It is your choice whether you use @import or <link> method... :o)
+ * It is your choice whether you use @import or link method... :o)
  * For linking just copy the following link bellow and paste it in your project:
  * 
- * <link rel="stylesheet" media="all" href="your-directory/custom.css" />  
+ * link rel="stylesheet" media="all" href="your-directory/custom.css" /  
 ============================================================================*/
