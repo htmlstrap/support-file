@@ -2,6 +2,7 @@ support-file
 ============
 
 Support File for Web Developing
+
 /*!
  * Support v2.3.0
  * Copyright 2014 HTMLSTRAP.
