@@ -256,6 +256,11 @@
 .padding8 
 .padding9 
 .padding10 
+.padding12
+.padding14
+.padding16
+.padding18
+.padding20
 /*----------- padding-top ------------*/
 
 .pt0 
