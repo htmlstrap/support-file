@@ -1,10 +1,10 @@
 /*!
- * Support v2.3.0
+ * Support v2.3.1
  * Copyright 2014 HTMLSTRAP.
  *
 ================================================================================
  * Authour: HTMLSTRAP (html4css@gmail.com)
- * License: HTMLSTRAP Support v2.3.0 (Still Under Construction)
+ * License: HTMLSTRAP Support v2.3.1 (Still Under Construction)
  * Reference: facebook, gooogle+, twitter
  *
  * I was inspired to create this SUPPORT file by Bootstrap Framework to ease my
@@ -48,6 +48,30 @@
 }
 .bg-color-plummy {
     background-color: #3E4A62;
+}
+/* additinal styling */
+
+/*------------- text bgs -------------*/
+
+.bg-info {
+    background-color: #F0F7FD !important;
+    border-left: 5px solid #97ccf0 !important;
+    padding: 20px !important;
+}
+.bg-warning {
+    background-color: #fffce1 !important;
+    border-left: 5px solid #ebe494 !important;
+    padding: 20px !important;
+}
+.bg-danger {
+    background-color: #FCF2F2 !important;
+    border-left: 5px solid #DFB5B4 !important;
+    padding: 20px !important;
+}
+.bg-success {
+    background-color: #e5ffe1 !important;
+    border-left: 5px solid #7cd68d !important;
+    padding: 20px !important;
 }
 /* 
 ==============================================================================*/
@@ -171,7 +195,7 @@
 /* text size
 ==============================================================================*/
 
-.text-size-mn {
+.text-mn {
     font-size: 10px !important;
     line-height: 12px !important;
     letter-spacing: 1px;
@@ -269,8 +293,6 @@
 .text-success {
     color: #00953a !important;
 }
-/* additinal styling */
-
 /* panels
 ==============================================================================*/
 
@@ -420,6 +442,44 @@
     margin: 0 !important;
     margin-top: 1px \9;
     /* IE-9 */
+}
+/* menu background
+==============================================================================*/
+
+.menu-primary {
+    background-color: #e7f4ff !important;
+    padding: 10px 20px !important;
+}
+.menu-primary:hover {
+    border-left: 5px solid #337ab7 !important;
+}
+.menu-info {
+    background-color: #F0F7FD !important;
+    padding: 10px 20px !important;
+}
+.menu-info:hover {
+    border-left: 5px solid #97ccf0 !important;
+}
+.menu-warning {
+    background-color: #fffce1 !important;
+    padding: 10px 20px !important;
+}
+.menu-warning:hover {
+    border-left: 5px solid #ebe494 !important;
+}
+.menu-danger {
+    background-color: #FCF2F2 !important;
+    padding: 10px 20px;
+}
+.menu-danger:hover {
+    border-left: 5px solid #DFB5B4 !important;
+}
+.menu-success {
+    background-color: #e5ffe1 !important;
+    padding: 10px 20px;
+}
+.menu-success:hover {
+    border-left: 5px solid #7cd68d !important;
 }
 /* span
 ==============================================================================*/
