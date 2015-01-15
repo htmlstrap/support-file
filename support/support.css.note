@@ -130,18 +130,18 @@
 /* panels
 ==============================================================================*/
 
-.box-panel
-.img-panel
+.box-pane
+.img-pane
 
-.panel
-.panel-text
-.panel-info
-.panel-warning
-.panel-danger
-.panel-success
+.pane
+.pane-text
+.pane-info
+.pane-warning
+.pane-danger
+.pane-success
 
 .jumbotron
-.jumbo-panel
+.jumbo-pane
 .jumbo-container
 .jumbo-bg
 
